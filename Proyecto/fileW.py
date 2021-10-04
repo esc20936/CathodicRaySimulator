@@ -1,6 +1,6 @@
 import json
 def updateValues(dict):
-    jsonFile = open("test1.json", "r")
+    jsonFile = open("sinusoidal.json", "r")
     data = json.load(jsonFile) 
     jsonFile.close() 
 
@@ -12,8 +12,9 @@ def updateValues(dict):
     data['w']=dict['w']
     data['w2']=dict['w2']
     data['phase']=dict['phase']
-
- 
-    jsonFile = open("test1.json", "w+")
+    data['vx']=dict['vx']
+    data['vy']=dict['vy']
+    data['color']=dict['color']
+    jsonFile = open("sinusoidal.json", "w+")
     jsonFile.write(json.dumps(data))
     jsonFile.close()
