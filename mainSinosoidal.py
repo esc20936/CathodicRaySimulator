@@ -1,13 +1,10 @@
 import tkinter as tk
 from tkinter.constants import LEFT
 import tkinter.messagebox as msg
-from typing import Sequence
-from pandas import DataFrame
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import matplotlib.animation as animation
 import parametric as prm
-import numpy as np
 import json
 import fileW as fw
 root= tk.Tk()
