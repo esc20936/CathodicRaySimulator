@@ -45,6 +45,19 @@ $$y = (W/v_x^2 * d )(charge/mass) (sen(f_1 * t))$$
 $$x = (W/v_x^2 * d )(charge/mass) (sen((f_2 * t) + \delta))$$
 
 
+## Set up
+Download the following dependencies with pip install:
+```
+pip install tkinter
+
+pip install matplotlib
+
+```
+
+## ScreenShots
+![Alt text](/screenshots/simulador.png?raw=true "ScreenShot")
+
+
 
 
 
