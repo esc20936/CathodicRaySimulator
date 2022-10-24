@@ -47,6 +47,10 @@ $$y = (W/v_x^2 * d )(charge/mass) (sen(f_1 * t))$$
 $$x = (W/v_x^2 * d )(charge/mass) (sen((f_2 * t) + \delta))$$
 
 
+## Spanish explanation video
+[video](https://www.youtube.com/watch?v=7MQQK4SGXrw)
+
+
 ## Set up
 Download the following dependencies with pip install:
 ```
