@@ -17,8 +17,11 @@ This formula will give us the element load ratio.
 2.
 
 Voltage = $V$
+
 Width of the plate = $W$
+
 velocity of the laser = $v_x$
+
 Distance between the plates = $d$
 
 $$\theta_y = (VW/v_x^2 *d) (charge/mass)$$
@@ -27,11 +30,14 @@ $$\theta_x = (VW/v_x^2 *d) (charge/mass)$$
 
 This formula will give us the $x$ and $y$ angle of the laser that would be the way that the laser would move on the screen.
 
-** To be able to draw the Lissajous shapes, we need to parameterize the formulas resulting in the following: **
+**To be able to draw the Lissajous shapes, we need to parameterize the formulas resulting in the following:**
 
 3.
+
 Frequency 1 = $f_1$
+
 Frequency 2 = $f_2$
+
 Phase = $\delta$
 
 
